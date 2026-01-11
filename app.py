@@ -10,7 +10,7 @@ courses = {
     'ai': pd.read_csv('ai.csv'),
     'frontend': pd.read_csv('frontend.csv'),
     'backend': pd.read_csv('backend.csv'),
-    'webdev': pd.read_csv('basic.csv'),
+    'webdev': pd.read_csv('basicweb.csv'),
     'c': pd.read_csv('c.csv')
 }
 
